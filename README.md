@@ -2,13 +2,7 @@
 
 Monitors file hashes to ensure integrity of file contents.
 
-For a detailed writeup, check out this word document:
-
-{% file src=".gitbook/assets/Python File Integrity Monitor Project Writeup.docx" %}
-
-Please also feel free to check out the code and other files on my GitHub: [https://github.com/alfiebrown5/file\_integrity\_monitor](https://github.com/alfiebrown5/file\_integrity\_monitor)
-
-
+For a detailed writeup, check out my GitBook page: https://alfie-brown-cybersecurity-portfo.gitbook.io/alfie-brown-portfolio/ 
 
 Description:
 
