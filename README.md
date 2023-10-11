@@ -2,7 +2,7 @@
 
 Monitors file hashes to ensure integrity of file contents.
 
-For a detailed writeup, check out my GitBook page: https://alfie-brown-cybersecurity-portfo.gitbook.io/alfie-brown-portfolio/ 
+For a detailed writeup, check out my GitBook page: https://alfie-brown-cybersecurity-portfo.gitbook.io/portfolio/
 
 Description:
 
